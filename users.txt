@@ -1,0 +1,29 @@
+
+Oliver Thompson
+Email: oliver@example.com
+Password: YZdT!ZFj6gP7zp2
+
+Emily Harris
+Email: emily@example.com
+Password: YZdT!ZFj6gP7zp2
+
+
+John Smith
+Email: john.smith@example.com
+Password: YZdT!ZFj6gP7zp2
+
+Emma Johnson
+Email: emma.johnson@example.com
+Password: EmmaPass2023!
+
+Michael Brown
+Email: michael.brown@example.com
+Password: YZdT!ZFj6gP7zp2
+
+Sophia Davis
+Email: sophia.davis@example.com
+Password: YZdT!ZFj6gP7zp2
+
+James Wilson
+Email: james.wilson@example.com
+Password: YZdT!ZFj6gP7zp2
